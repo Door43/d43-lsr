@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lsr:home|Door43 (lsr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lsr|d43-lsr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lsr/archive/master.zip|d43-lsr.zip]]
+
+**Recent Changes**
+{{changes>ns = lsr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lsr|Ethnologue data]]
+
